@@ -23,3 +23,6 @@ theta -> angle of projection with respect to x-axis, in degrees or radians
 t -> time in s
 The constants used:
 g -> acceleration due to gravity, in m/s^2, euqal to 9.8 m/s^2
+
+Output:
+[Graph](output_graph.png)
